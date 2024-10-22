@@ -16,7 +16,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     color: #333;
-    background-color: #fff;
+    background-color: #d26d6d !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
