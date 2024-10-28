@@ -2898,7 +2898,7 @@ body.rtl .eae-layout-right .eae-tl-content-wrapper {
     text-align: center;
     background-color: #333;
     border-radius: 6px;
-    font-size: 70px
+    font-size: 40px;
 }
 
 [data-element_type="eae-evergreen-timer.skin2"] .eae-flip-clock-wrapper ul li a div.up div.inn {
@@ -7066,7 +7066,7 @@ body.rtl .eae-cs-layout-skin4 input:checked+.eae-content-toggle-switcher:before 
         font-size: 45px
     }
     .wts-eae-shadow-text-wrapper {
-        font-size: 70px
+        font-size: 40px;
     }
 }
 

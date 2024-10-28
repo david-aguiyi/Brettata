@@ -25,7 +25,7 @@
 
 .elementor-6 .elementor-element.elementor-element-5e483df .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-weight: 800;
     letter-spacing: 3px;
     -webkit-text-stroke-width: 0.04rem;
@@ -40,7 +40,7 @@
 
 .elementor-6 .elementor-element.elementor-element-a19cabf .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 119px;
     font-weight: 600;
     letter-spacing: 8px;
@@ -78,7 +78,7 @@
 
 .elementor-6 .elementor-element.elementor-element-21adb64 .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 40px;
     font-weight: 700;
     text-transform: lowercase;
@@ -108,7 +108,7 @@
 
 .elementor-6 .elementor-element.elementor-element-486e12b .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Comic Neue", Sans-serif;
+    
     font-weight: 600;
 }
 
@@ -126,7 +126,7 @@
     -ms-flex-align: center;
     align-items: center;
     display: inline-flex;
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 40px;
     font-weight: 500;
     letter-spacing: 1px;
@@ -184,7 +184,7 @@
 
 .elementor-6 .elementor-element.elementor-element-25dd1fe .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 80px;
     font-weight: 500;
     letter-spacing: 2px;
@@ -220,7 +220,7 @@
 
 .elementor-6 .elementor-element.elementor-element-01e9fd6 .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 45px;
     font-weight: 400;
     letter-spacing: 2px;
@@ -236,7 +236,7 @@
 
 .elementor-6 .elementor-element.elementor-element-85dde96 .elementor-heading-title {
     color: var( --e-global-color-text);
-    font-family: "Viga", Sans-serif;
+    
     font-size: 45px;
     font-weight: 700;
 }
@@ -263,7 +263,7 @@
 
 .elementor-6 .elementor-element.elementor-element-6425132 .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 45px;
     font-weight: 400;
     letter-spacing: 2px;
@@ -279,7 +279,7 @@
 
 .elementor-6 .elementor-element.elementor-element-4bfadce .elementor-heading-title {
     color: var( --e-global-color-text);
-    font-family: "Viga", Sans-serif;
+    
     font-size: 45px;
     font-weight: 700;
 }
@@ -306,7 +306,7 @@
 
 .elementor-6 .elementor-element.elementor-element-75e7c4c .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 45px;
     font-weight: 400;
     letter-spacing: 2px;
@@ -322,7 +322,7 @@
 
 .elementor-6 .elementor-element.elementor-element-7731ea1 .elementor-heading-title {
     color: var( --e-global-color-text);
-    font-family: "Viga", Sans-serif;
+    
     font-size: 45px;
     font-weight: 700;
 }
@@ -333,7 +333,7 @@
 
 .elementor-6 .elementor-element.elementor-element-5f6d5d4 .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 80px;
     font-weight: 700;
     letter-spacing: 2px;
@@ -512,7 +512,7 @@
     -ms-flex-align: center;
     align-items: center;
     display: inline-flex;
-    font-family: "Paytone One", Sans-serif;
+   
     font-size: 40px;
     font-weight: 500;
     letter-spacing: 1px;
@@ -536,7 +536,7 @@
 
 .elementor-6 .elementor-element.elementor-element-5624d4b .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Comic Neue", Sans-serif;
+    
     font-size: 16px;
     font-weight: 600;
 }
@@ -551,7 +551,7 @@
 
 .elementor-6 .elementor-element.elementor-element-375984b .elementor-heading-title {
     color: var( --e-global-color-secondary);
-    font-family: "Comic Neue", Sans-serif;
+    
     font-size: 16px;
     font-weight: 600;
 }
@@ -597,16 +597,16 @@ body.elementor-page-6>.elementor-motion-effects-container>.elementor-motion-effe
 
 @media(max-width:1024px) {
     .elementor-6 .elementor-element.elementor-element-a19cabf .elementor-heading-title {
-        font-size: 78px;
+        font-size: 40px;
     }
     .elementor-6 .elementor-element.elementor-element-a0fbc48 img {
         width: 47%;
     }
     .elementor-6 .elementor-element.elementor-element-21adb64 .elementor-heading-title {
-        font-size: 30px;
+        font-size: 16px;
     }
     .elementor-6 .elementor-element.elementor-element-5039495 .elementor-button {
-        font-size: 30px;
+        font-size: 16px;
     }
     .elementor-6 .elementor-element.elementor-element-929b273 img {
         width: 75%;
@@ -615,22 +615,22 @@ body.elementor-page-6>.elementor-motion-effects-container>.elementor-motion-effe
         width: 75%;
     }
     .elementor-6 .elementor-element.elementor-element-25dd1fe .elementor-heading-title {
-        font-size: 70px;
+        font-size: 40px;
     }
     .elementor-6 .elementor-element.elementor-element-01e9fd6 .elementor-heading-title {
-        font-size: 30px;
+        font-size: 16px;
     }
     .elementor-6 .elementor-element.elementor-element-85dde96 .elementor-heading-title {
         font-size: 39px;
     }
     .elementor-6 .elementor-element.elementor-element-6425132 .elementor-heading-title {
-        font-size: 30px;
+        font-size: 16px;
     }
     .elementor-6 .elementor-element.elementor-element-4bfadce .elementor-heading-title {
         font-size: 39px;
     }
     .elementor-6 .elementor-element.elementor-element-75e7c4c .elementor-heading-title {
-        font-size: 30px;
+        font-size: 16px;
     }
     .elementor-6 .elementor-element.elementor-element-7731ea1 .elementor-heading-title {
         font-size: 39px;
@@ -639,7 +639,7 @@ body.elementor-page-6>.elementor-motion-effects-container>.elementor-motion-effe
         font-size: 70px;
     }
     .elementor-6 .elementor-element.elementor-element-d0dd8e5 .elementor-button {
-        font-size: 30px;
+        font-size: 16px;
     }
 }
 
